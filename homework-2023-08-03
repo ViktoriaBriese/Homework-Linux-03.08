@@ -1,0 +1,12 @@
+   0 mkdir -p /home/user/start
+   1 > /home/user/start/1.txt
+   2 echo "Start" >> /home/user/start/1.txt 
+   3 date >> /home/user/start/1.txt 
+   4 mkdir -p /opt/task
+   5 cat /home/user/start/1.txt > /opt/task/start.txt
+   6 ls -al/
+   7 ls -al /
+   8 ls -al / | tail -4 >> /opt/task/start.txt 
+   9 cat start.txt
+  10 cat /opt/task/start.txt 
+  11 history >> homework-2023-08-03
